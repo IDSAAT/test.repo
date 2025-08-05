@@ -1,2 +1,2 @@
 # test.repo
-Creating test repo for demo use
+Used this year AUGUST 5th.
